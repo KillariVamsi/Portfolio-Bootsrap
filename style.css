@@ -1,0 +1,30 @@
+#home{
+    margin-top: 100px;
+    background-image: url('https://wallpapers.com/images/featured/4k-laptop-yn553k4gdhpc4hlh.jpg') ;
+    
+}
+
+#careerobj, #projects, #skills, #contact{
+    margin-top: 125px;
+}
+
+#skills{
+    background-image: url('https://wallpaperaccess.com/full/2484218.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#projects{
+    margin-left: 55px;
+}
+
+#major-pro{
+    margin-top: 100px;
+}
+
+#ip{
+    height: 55px;
+    width: 80%;
+    border-radius: 10px;
+}
